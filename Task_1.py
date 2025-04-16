@@ -1,0 +1,13 @@
+# Perform Basic Mathematical Operations
+a=input('Enter the first number: ')
+b=input('Enter the second number: ')
+a=int(a)
+b=int(b)
+add=(a+b)
+sub=(a-b)
+multiply=(a*b)
+div=(a/b)
+print('Addition: ' , add)
+print('Substraction: ', sub)
+print('Multiplication: ', multiply)
+print('Division: ', div)
